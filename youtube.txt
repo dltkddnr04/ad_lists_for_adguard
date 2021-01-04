@@ -4,3 +4,17 @@
 ||r4.sn-n3cgv5qc5oq-bh2sz.googlevideo.com^
 ||r2.sn-n3cgv5qc5oq-bh2er.googlevideo.com^
 ||r2---sn-n3cgv5qc5oq-bh2er.googlevideo.com^
+||r5---sn-n3cgv5qc5oq-bh2e6.googlevideo.com^
+||r5.sn-n3cgv5qc5oq-bh2e6.googlevideo.com^
+||r6---sn-n3cgv5qc5oq-bh2sy.googlevideo.com^
+||r6.sn-n3cgv5qc5oq-bh2sy.googlevideo.com^
+||r7.sn-n3cgv5qc5oq-bh2ss.googlevideo.com^
+||r7---sn-n3cgv5qc5oq-bh2ss.googlevideo.com^
+||r5---sn-n3cgv5qc5oq-bh2e6.googlevideo.com^
+||r5.sn-n3cgv5qc5oq-bh2e6.googlevideo.com^
+||r6---sn-n3cgv5qc5oq-bh2sy.googlevideo.com^
+||r6.sn-n3cgv5qc5oq-bh2sy.googlevideo.com^
+||r7.sn-n3cgv5qc5oq-bh2ss.googlevideo.com^
+||r7---sn-n3cgv5qc5oq-bh2ss.googlevideo.com^
+||r7---sn-n3cgv5qc5oq-bh2z7.googlevideo.com^
+||r7.sn-n3cgv5qc5oq-bh2z7.googlevideo.com^
